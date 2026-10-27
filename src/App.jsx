@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import {translations} from './data/translations.js';
+import {translations} from './data/translations.jsx';
 import Header from './components/Header.jsx';
 import Hero from './components/Hero.jsx';
 import Services from './components/Services.jsx';
